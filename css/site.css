@@ -1,0 +1,35 @@
+.wrap {
+	min-height: 100%;
+	height: auto;
+	margin: 0 auto -60px;
+	padding: 0 0 60px;
+}
+
+.wrap > .container {
+	padding: 70px 15px 20px;
+}
+
+.brasao{
+	margin-top: 70px;
+}
+
+.head{
+	background-image: url("../images/back2.jpg");
+	background-attachment: fixed;
+  	background-position: center center;
+  	background-repeat: none;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	background-size: cover;
+  	-o-background-size: cover;
+  	color:white;
+}
+
+.icon{
+	margin:20px;
+	color:white;
+}
+
+.icon:hover{
+	opacity: 0.5;
+}
