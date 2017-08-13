@@ -1,9 +1,12 @@
 .brasao{
 	margin-top: 70px;
+	width:auto;
+	height:auto;
+	max-width: 20%;
 }
 
 .head{
-	background-image: url("../images/back2.jpg");
+	background-image: url("../images/back.jpg");
 	background-attachment: fixed;
   	background-position: center center;
   	background-repeat: no-repeat;
@@ -21,4 +24,13 @@
 
 .icon:hover{
 	opacity: 0.5;
+}
+
+.socialmedia{
+	margin-top: 40px;
+}
+
+.main-text{
+	font-family:OLD_FONT;
+	margin-top: 30px;
 }
