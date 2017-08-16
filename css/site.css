@@ -1,5 +1,5 @@
 .brasao{
-	margin-top: 70px;
+	margin-top: 10%;
 	width:auto;
 	height:auto;
 	max-width: 20%;
@@ -18,7 +18,7 @@
 }
 
 .icon{
-	margin:20px;
+	margin:2%;
 	color:white;
 }
 
@@ -27,10 +27,10 @@
 }
 
 .socialmedia{
-	margin-top: 50px;
+	margin-top: 3%;
 }
 
 .main-text{
 	font-family:OLD_FONT;
-	margin-top: 30px;
+	margin-top: 2%;
 }
